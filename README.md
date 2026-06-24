@@ -1,9 +1,8 @@
 # Rock-paper-scissors
-🎮 Simple Python Game
-
+Simple Python Game
 A simple command-line game built with Python as part of my practice in programming and game logic development.
 
-📌 Project Description
+Project Description
 
 This project is a beginner-friendly Python game created to practice core programming concepts such as:
 
@@ -16,18 +15,20 @@ Basic game logic
 
 The game runs in the terminal/command line and is designed to be simple, fun, and easy to understand.
 
-🚀 Features
+Features
 Interactive gameplay in the terminal
 Simple and clear game logic
 User-friendly prompts
 Beginner-friendly Python code structure
-🛠️ Technologies Used
+
+Technologies Used
 Python 3
 📂 Project Structure
 simple-python-game/
 │── game.py
 │── README.md
-▶️ How to Run the Game
+
+How to Run the Game
 Make sure you have Python 3 installed on your computer.
 Clone this repository or download the files.
 Open the project folder in your terminal.
