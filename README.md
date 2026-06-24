@@ -25,6 +25,7 @@ Technologies Used
 Python 3
 Project Structure
 simple-python-game/
+
 │── game.py
 
 │── README.md
