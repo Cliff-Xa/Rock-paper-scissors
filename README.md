@@ -23,9 +23,10 @@ Beginner-friendly Python code structure
 
 Technologies Used
 Python 3
-📂 Project Structure
+Project Structure
 simple-python-game/
 │── game.py
+
 │── README.md
 
 How to Run the Game
